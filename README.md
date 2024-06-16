@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hiber Neet</h1>
 <h3 align="center">Welcome to my repository</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif">
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=hiber-neet&label=Profile%20views&color=0e75b6&style=flat](https://github.com/hiber-neet)" alt="hiber-neet" /> </p>
-
 - 🔭 I’m currently working on [Diamond_Shop Project](https://github.com/Nhut2912/DiamondShopSystem.git)
 
 - 🌱 I’m currently learning **at FPT University**
 
 - 📫 How to reach me **hoangtvse172883@fpt.edu.vn**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
